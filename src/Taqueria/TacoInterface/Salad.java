@@ -17,6 +17,12 @@ public class Salad implements Taco {
     public String getDescriptionWithoutPrice() {
         return name;
     }
+
+    @Override
+    public Taco getTaco() {
+        return null;
+    }
+
     @Override
     public double getPrice() {
         return price;

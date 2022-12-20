@@ -14,7 +14,7 @@ public class ToppingSauce extends TacoDecorator {
 
     @Override
     public String getName() {
-        return taco.getName() + name;
+        return taco.getName() + " " + name;
     }
 
     public String getDescription(){

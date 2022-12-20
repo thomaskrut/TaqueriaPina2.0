@@ -812,3 +812,228 @@ Antal servetter till kund: 2
 Totalpris: 109,00 kr 
 Status: Beställd
 
+Order: #111
+Kundens namn: Thomas
+Kundens telefon: 12345
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr)]
+Antal servetter till kund: 0
+Totalpris: 99,00 kr 
+Status: Beställd
+
+Order: #112
+Kundens namn: Thomas
+Kundens telefon: 1
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #113
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #114
+Kundens namn: Thomas
+Kundens telefon: 12345
+Antal artiklar i beställningen: 1
+Beställning: [Tacosallad (79.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 79,00 kr 
+Status: Beställd
+
+Order: #115
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #116
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #117
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #118
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr)]
+Antal servetter till kund: 0
+Totalpris: 99,00 kr 
+Status: Beställd
+
+Order: #119
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Kött (10.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 99,00 kr 
+Status: Beställd
+
+Order: #120
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 89,00 kr 
+Status: Beställd
+
+Order: #121
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 119,00 kr 
+Status: Beställd
+
+Order: #122
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr), Tacosallad (79.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 3
+Totalpris: 198,00 kr 
+Status: Beställd
+
+Order: #123
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr), Tacosallad (79.0 kr) + Ananas (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 208,00 kr 
+Status: Beställd
+
+Order: #124
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 129,00 kr 
+Status: Beställd
+
+Order: #125
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr), Tacosallad (79.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 4
+Totalpris: 238,00 kr 
+Status: Beställd
+
+Order: #126
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr), Tacosallad (79.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr)]
+Antal servetter till kund: 3
+Totalpris: 238,00 kr 
+Status: Beställd
+
+Order: #127
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 129,00 kr 
+Status: Beställd
+
+Order: #127
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr), Tacosallad (79.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 7
+Totalpris: 298,00 kr 
+Status: Beställd
+
+Order: #128
+Kundens namn: Thimas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr), Tacosallad (79.0 kr) + Ananas (10.0 kr) + Ananas (10.0 kr) + Ananas (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 228,00 kr 
+Status: Beställd
+
+Order: #129
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Sås (10.0 kr), Hårt skal (89.0 kr) + Kött (10.0 kr) + Kött (10.0 kr) + Kött (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 5
+Totalpris: 258,00 kr 
+Status: Beställd
+
+Order: #130
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr) + Sås (10.0 kr), Tacosallad (79.0 kr) + Ost (10.0 kr) + Kött (10.0 kr) + Ananas (10.0 kr)]
+Antal servetter till kund: 3
+Totalpris: 238,00 kr 
+Status: Beställd
+
+Order: #131
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 2
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr), Tacosallad (79.0 kr) + Ananas (10.0 kr) + Ananas (10.0 kr) + Ananas (10.0 kr)]
+Antal servetter till kund: 2
+Totalpris: 228,00 kr 
+Status: Beställd
+
+Order: #132
+Kundens namn: Thomas
+Kundens telefon: 12345
+Antal artiklar i beställningen: 1
+Beställning: [TacoSkal (89.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr) + Ost (10.0 kr)]
+Antal servetter till kund: 1
+Totalpris: 139,00 kr 
+Status: Beställd
+
+Order: #133
+Kundens namn: Thomas
+Kundens telefon: 123
+Antal artiklar i beställningen: 1
+Beställning: [Tortilla (89.0 kr) + Ost (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 4
+Totalpris: 139,00 kr 
+Status: Beställd
+
+Order: #134
+Kundens namn: Thomas1
+Kundens telefon: 12345
+Antal artiklar i beställningen: 1
+Beställning: [TacoSkal (89.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr) + Sås (10.0 kr)]
+Antal servetter till kund: 6
+Totalpris: 149,00 kr 
+Status: Beställd
+

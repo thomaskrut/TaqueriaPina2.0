@@ -105,10 +105,10 @@ public class TacoLogger {
 
         if (p.getProperty("logging").equals("on")) {
             logging = true;
-            System.out.println("Loggar");
+            //System.out.println("Loggar");
         } else {
             logging = false;
-            System.out.println("Loggar inte");
+            //System.out.println("Loggar inte");
         }
 
     }
